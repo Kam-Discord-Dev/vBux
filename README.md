@@ -5,3 +5,6 @@
 # ::)
 - I did this in class
 - Sorry it sucks
+
+# Important i guess
+- Read the license
